@@ -1,0 +1,5 @@
+input[data-testid="text-type-input"] {
+    -webkit-text-security: disc;
+    text-security: disc;
+}
+
